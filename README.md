@@ -4,6 +4,8 @@ Nama: Arfis Orica Shirena
 
 NIM: 2609116076
 
+Penjelasan singkat: program python sederhana untuk mengelola data produk menggunakan dictionary dan perulangan while dan dapat menampilkan, mengubah, menambah dan menghapus data.
+
 # OUTPUT
 
 # Hasil kode menu pertama data produk
